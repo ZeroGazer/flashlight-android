@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+
+    <string name="switch_off">The flashlight is turned off.</string>
+    <string name="switch_on">The flashlight is turned on.</string>
+    <string name="warningMessage">Sorry, your device does not support flash light.</string>
+    <string name="warningTitle">Error</string>
+    <string name="action_settings">Settings</string>
+</resources>
